@@ -1,2 +1,3 @@
 # loadingvideo
-This is an upload from a free to use video for my fivem loadingscreen Youtube embed dont work
+           video I used: https://www.youtube.com/watch?v=o9tVz3JbjEs&ab_channel=GamingCZE11
+           Video that I used is completly FREE provided by author 
